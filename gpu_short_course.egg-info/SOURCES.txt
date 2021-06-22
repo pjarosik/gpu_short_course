@@ -1,0 +1,7 @@
+setup.py
+gpu_short_course/__init__.py
+gpu_short_course/tests.py
+gpu_short_course.egg-info/PKG-INFO
+gpu_short_course.egg-info/SOURCES.txt
+gpu_short_course.egg-info/dependency_links.txt
+gpu_short_course.egg-info/top_level.txt
